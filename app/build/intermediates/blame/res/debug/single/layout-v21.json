@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/layout-v21/notification_action.xml"
+    }
+]

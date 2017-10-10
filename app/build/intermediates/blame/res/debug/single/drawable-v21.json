@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
