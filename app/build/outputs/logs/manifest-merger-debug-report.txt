@@ -15,15 +15,18 @@ ADDED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alar
 		INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/caleb/.android/build-cache/3dff8eb1a648db5bc9717d56de3da0523093bc2b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/e53d3fcb35d4aed939ecdbc1199ad0f34f6bbe6d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/caleb/.android/build-cache/a3989e21a6a6bbd126256bb262832958607e4ab4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/caleb/.android/build-cache/cd153b31134e5da074cd033ae3f843c0e00d5e99/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/caleb/.android/build-cache/d81df28466ae2d4e4c89533ded58d5cbed9fcae6/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/6585775ea8ff1731d304c5be9545d77f237a5782/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/d023beb61d981726e330ac2b85c2570d7a29e71e/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/47a044c5adf12eebd35f663f05fa89e2386bff7b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/17194353d4b88fd77c86118844195533c42ccafe/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/389fe8576bbffcaa960a4ca64a69ac4ac6c04866/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/caleb/.android/build-cache/8623d263e0892195691a30898c749bef14ca4fcb/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /Users/caleb/.android/build-cache/4962a45e26e116c79052d23a39b19a7c16e95ff2/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/caleb/.android/build-cache/2c8215b18e1ca9f61e1df6c44644b79c8df15b79/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/caleb/.android/build-cache/d37ed431984a79a7ef098721dac7b4e2cf10e89a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/caleb/.android/build-cache/93444ff0c42a11879276e2fc044f42d2eafb5505/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/caleb/.android/build-cache/c93207a76bd135f5d218a8c6f0b0747e5187c64c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/caleb/.android/build-cache/2ec2f4c9a0aeb1d0b2f5c0370e95e0ca2c12a329/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/caleb/.android/build-cache/dc068784efc9227b120ecbcaa01358f4353dca68/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/caleb/.android/build-cache/afb4ad67ca1326e5d5f9c18f3e0e77cac9d8ba23/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml:8:9-41
@@ -53,18 +56,21 @@ ADDED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alar
 		ADDED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/caleb/.android/build-cache/3dff8eb1a648db5bc9717d56de3da0523093bc2b/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/e53d3fcb35d4aed939ecdbc1199ad0f34f6bbe6d/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/caleb/.android/build-cache/a3989e21a6a6bbd126256bb262832958607e4ab4/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/caleb/.android/build-cache/cd153b31134e5da074cd033ae3f843c0e00d5e99/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/caleb/.android/build-cache/d81df28466ae2d4e4c89533ded58d5cbed9fcae6/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/6585775ea8ff1731d304c5be9545d77f237a5782/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/d023beb61d981726e330ac2b85c2570d7a29e71e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/47a044c5adf12eebd35f663f05fa89e2386bff7b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/17194353d4b88fd77c86118844195533c42ccafe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/389fe8576bbffcaa960a4ca64a69ac4ac6c04866/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/caleb/.android/build-cache/8623d263e0892195691a30898c749bef14ca4fcb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /Users/caleb/.android/build-cache/4962a45e26e116c79052d23a39b19a7c16e95ff2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /Users/caleb/.android/build-cache/2c8215b18e1ca9f61e1df6c44644b79c8df15b79/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/caleb/.android/build-cache/d37ed431984a79a7ef098721dac7b4e2cf10e89a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/caleb/.android/build-cache/93444ff0c42a11879276e2fc044f42d2eafb5505/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/caleb/.android/build-cache/c93207a76bd135f5d218a8c6f0b0747e5187c64c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/caleb/.android/build-cache/2ec2f4c9a0aeb1d0b2f5c0370e95e0ca2c12a329/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /Users/caleb/.android/build-cache/dc068784efc9227b120ecbcaa01358f4353dca68/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/caleb/.android/build-cache/afb4ad67ca1326e5d5f9c18f3e0e77cac9d8ba23/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml
@@ -72,16 +78,19 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/cale
 		INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/caleb/.android/build-cache/3dff8eb1a648db5bc9717d56de3da0523093bc2b/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/e53d3fcb35d4aed939ecdbc1199ad0f34f6bbe6d/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/caleb/.android/build-cache/a3989e21a6a6bbd126256bb262832958607e4ab4/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/caleb/.android/build-cache/cd153b31134e5da074cd033ae3f843c0e00d5e99/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/caleb/.android/build-cache/d81df28466ae2d4e4c89533ded58d5cbed9fcae6/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/6585775ea8ff1731d304c5be9545d77f237a5782/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/caleb/.android/build-cache/d023beb61d981726e330ac2b85c2570d7a29e71e/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/caleb/.android/build-cache/47a044c5adf12eebd35f663f05fa89e2386bff7b/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/17194353d4b88fd77c86118844195533c42ccafe/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/caleb/.android/build-cache/389fe8576bbffcaa960a4ca64a69ac4ac6c04866/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/caleb/.android/build-cache/8623d263e0892195691a30898c749bef14ca4fcb/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /Users/caleb/.android/build-cache/4962a45e26e116c79052d23a39b19a7c16e95ff2/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/caleb/.android/build-cache/2c8215b18e1ca9f61e1df6c44644b79c8df15b79/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/caleb/.android/build-cache/d37ed431984a79a7ef098721dac7b4e2cf10e89a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/caleb/.android/build-cache/93444ff0c42a11879276e2fc044f42d2eafb5505/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/caleb/.android/build-cache/c93207a76bd135f5d218a8c6f0b0747e5187c64c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/caleb/.android/build-cache/2ec2f4c9a0aeb1d0b2f5c0370e95e0ca2c12a329/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/caleb/.android/build-cache/dc068784efc9227b120ecbcaa01358f4353dca68/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.1] /Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/AndroidManifest.xml:27:13-51

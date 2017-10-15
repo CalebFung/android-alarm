@@ -1,15 +1,15 @@
 [
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_default.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_edittext.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
@@ -17,26 +17,30 @@
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_spinner.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_tint_switch_track.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/color-v23/abc_color_highlight_material.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/res/color-v23/design_tint_password_toggle.xml"
     }
 ]

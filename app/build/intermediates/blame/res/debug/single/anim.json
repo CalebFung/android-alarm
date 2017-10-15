@@ -1,42 +1,58 @@
 [
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_fade_out.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_fade_in.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/caleb/.android/build-cache/ab64e2ccb2fa84651f253cc89c27b06e2f3e42ec/output/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_popup_exit.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_popup_enter.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/tooltip_enter.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_slide_out_top.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/caleb/Documents/定-2017/001-FALL/dev-work/Github/android-alarm/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/caleb/.android/build-cache/675d0e06de38c223d75aaccba46898a00b84afc9/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/Users/caleb/.android/build-cache/7ad67bf44b85aacb5a1cf1996ff7d17052e91f9a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     }
 ]
